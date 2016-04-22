@@ -1,2 +1,6 @@
-# orainstall
-This repository contains various Oracle client install/uninstall scripts. All scripts have been rewritten as chocolatey packages in chocolatey-packages repo
+orainstall (sev17)
+==================================
+
+This repository contains various Oracle client install/uninstall scripts created by Chad Miller.
+
+All scripts have been rewritten as chocolatey packages.
