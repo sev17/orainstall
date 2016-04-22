@@ -1,0 +1,7 @@
+# LDAP.ORA Network Configuration File
+
+DEFAULT_ADMIN_CONTEXT = "dc=mydc,dc=com"
+DIRECTORY_SERVER_TYPE = AD
+
+DIRECTORY_SERVERS = (myserver1.mydc.com:17010, myserver2.mydc.com:17010)
+
